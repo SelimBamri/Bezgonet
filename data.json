@@ -1,0 +1,328 @@
+{
+    "countries": [
+        {
+            "name": "countries_buttons/0.png",
+            "capital": "capitals_buttons/0.png",
+            "flag": "flags/0.png",
+            "map": "maps/0.png"
+        },
+        {
+            "name": "countries_buttons/1.png",
+            "capital": "capitals_buttons/1.png",
+            "flag": "flags/1.png",
+            "map": "maps/1.png"
+        },
+        {
+            "name": "countries_buttons/2.png",
+            "capital": "capitals_buttons/2.png",
+            "flag": "flags/2.png",
+            "map": "maps/2.png"
+        },
+        {
+            "name": "countries_buttons/3.png",
+            "capital": "capitals_buttons/3.png",
+            "flag": "flags/3.png",
+            "map": "maps/3.png"
+        },
+        {
+            "name": "countries_buttons/4.png",
+            "capital": "capitals_buttons/4.png",
+            "flag": "flags/4.png",
+            "map": "maps/4.png"
+        },
+        {
+            "name": "countries_buttons/5.png",
+            "capital": "capitals_buttons/5.png",
+            "flag": "flags/5.png",
+            "map": "maps/5.png"
+        },
+        {
+            "name": "countries_buttons/6.png",
+            "capital": "capitals_buttons/6.png",
+            "flag": "flags/6.png",
+            "map": "maps/6.png"
+        },
+        {
+            "name": "countries_buttons/7.png",
+            "capital": "capitals_buttons/7.png",
+            "flag": "flags/7.png",
+            "map": "maps/7.png"
+        },
+        {
+            "name": "countries_buttons/8.png",
+            "capital": "capitals_buttons/8.png",
+            "flag": "flags/8.png",
+            "map": "maps/8.png"
+        },
+        {
+            "name": "countries_buttons/9.png",
+            "capital": "capitals_buttons/9.png",
+            "flag": "flags/9.png",
+            "map": "maps/9.png"
+        },
+        {
+            "name": "countries_buttons/10.png",
+            "capital": "capitals_buttons/10.png",
+            "flag": "flags/10.png",
+            "map": "maps/10.png"
+        },
+        {
+            "name": "countries_buttons/11.png",
+            "capital": "capitals_buttons/11.png",
+            "flag": "flags/11.png",
+            "map": "maps/11.png"
+        },
+        {
+            "name": "countries_buttons/12.png",
+            "capital": "capitals_buttons/12.png",
+            "flag": "flags/12.png",
+            "map": "maps/12.png"
+        },
+        {
+            "name": "countries_buttons/13.png",
+            "capital": "capitals_buttons/13.png",
+            "flag": "flags/13.png",
+            "map": "maps/13.png"
+        },
+        {
+            "name": "countries_buttons/14.png",
+            "capital": "capitals_buttons/14.png",
+            "flag": "flags/14.png",
+            "map": "maps/14.png"
+        },
+        {
+            "name": "countries_buttons/15.png",
+            "capital": "capitals_buttons/15.png",
+            "flag": "flags/15.png",
+            "map": "maps/15.png"
+        },
+        {
+            "name": "countries_buttons/16.png",
+            "capital": "capitals_buttons/16.png",
+            "flag": "flags/16.png",
+            "map": "maps/16.png"
+        },
+        {
+            "name": "countries_buttons/17.png",
+            "capital": "capitals_buttons/17.png",
+            "flag": "flags/17.png",
+            "map": "maps/17.png"
+        },
+        {
+            "name": "countries_buttons/18.png",
+            "capital": "capitals_buttons/18.png",
+            "flag": "flags/18.png",
+            "map": "maps/18.png"
+        },
+        {
+            "name": "countries_buttons/19.png",
+            "capital": "capitals_buttons/19.png",
+            "flag": "flags/19.png",
+            "map": "maps/19.png"
+        },
+        {
+            "name": "countries_buttons/20.png",
+            "capital": "capitals_buttons/20.png",
+            "flag": "flags/20.png",
+            "map": "maps/20.png"
+        },
+        {
+            "name": "countries_buttons/21.png",
+            "capital": "capitals_buttons/21.png",
+            "flag": "flags/21.png",
+            "map": "maps/21.png"
+        },
+        {
+            "name": "countries_buttons/22.png",
+            "capital": "capitals_buttons/22.png",
+            "flag": "flags/22.png",
+            "map": "maps/22.png"
+        },
+        {
+            "name": "countries_buttons/23.png",
+            "capital": "capitals_buttons/23.png",
+            "flag": "flags/23.png",
+            "map": "maps/23.png"
+        },
+        {
+            "name": "countries_buttons/24.png",
+            "capital": "capitals_buttons/24.png",
+            "flag": "flags/24.png",
+            "map": "maps/24.png"
+        },
+        {
+            "name": "countries_buttons/25.png",
+            "capital": "capitals_buttons/25.png",
+            "flag": "flags/25.png",
+            "map": "maps/25.png"
+        },
+        {
+            "name": "countries_buttons/26.png",
+            "capital": "capitals_buttons/26.png",
+            "flag": "flags/26.png",
+            "map": "maps/26.png"
+        },
+        {
+            "name": "countries_buttons/27.png",
+            "capital": "capitals_buttons/27.png",
+            "flag": "flags/27.png",
+            "map": "maps/27.png"
+        },
+        {
+            "name": "countries_buttons/28.png",
+            "capital": "capitals_buttons/28.png",
+            "flag": "flags/28.png",
+            "map": "maps/28.png"
+        },
+        {
+            "name": "countries_buttons/29.png",
+            "capital": "capitals_buttons/29.png",
+            "flag": "flags/29.png",
+            "map": "maps/29.png"
+        },
+        {
+            "name": "countries_buttons/30.png",
+            "capital": "capitals_buttons/30.png",
+            "flag": "flags/30.png",
+            "map": "maps/30.png"
+        },
+        {
+            "name": "countries_buttons/31.png",
+            "capital": "capitals_buttons/31.png",
+            "flag": "flags/31.png",
+            "map": "maps/31.png"
+        },
+        {
+            "name": "countries_buttons/32.png",
+            "capital": "capitals_buttons/32.png",
+            "flag": "flags/32.png",
+            "map": "maps/32.png"
+        },
+        {
+            "name": "countries_buttons/33.png",
+            "capital": "capitals_buttons/33.png",
+            "flag": "flags/33.png",
+            "map": "maps/33.png"
+        },
+        {
+            "name": "countries_buttons/34.png",
+            "capital": "capitals_buttons/34.png",
+            "flag": "flags/34.png",
+            "map": "maps/34.png"
+        },
+        {
+            "name": "countries_buttons/35.png",
+            "capital": "capitals_buttons/35.png",
+            "flag": "flags/35.png",
+            "map": "maps/35.png"
+        },
+        {
+            "name": "countries_buttons/36.png",
+            "capital": "capitals_buttons/36.png",
+            "flag": "flags/36.png",
+            "map": "maps/36.png"
+        },
+        {
+            "name": "countries_buttons/37.png",
+            "capital": "capitals_buttons/37.png",
+            "flag": "flags/37.png",
+            "map": "maps/37.png"
+        },
+        {
+            "name": "countries_buttons/38.png",
+            "capital": "capitals_buttons/38.png",
+            "flag": "flags/38.png",
+            "map": "maps/38.png"
+        },
+        {
+            "name": "countries_buttons/39.png",
+            "capital": "capitals_buttons/39.png",
+            "flag": "flags/39.png",
+            "map": "maps/39.png"
+        },
+        {
+            "name": "countries_buttons/40.png",
+            "capital": "capitals_buttons/40.png",
+            "flag": "flags/40.png",
+            "map": "maps/40.png"
+        },
+        {
+            "name": "countries_buttons/41.png",
+            "capital": "capitals_buttons/41.png",
+            "flag": "flags/41.png",
+            "map": "maps/41.png"
+        },
+        {
+            "name": "countries_buttons/42.png",
+            "capital": "capitals_buttons/42.png",
+            "flag": "flags/42.png",
+            "map": "maps/42.png"
+        },
+        {
+            "name": "countries_buttons/43.png",
+            "capital": "capitals_buttons/43.png",
+            "flag": "flags/43.png",
+            "map": "maps/43.png"
+        },
+        {
+            "name": "countries_buttons/44.png",
+            "capital": "capitals_buttons/44.png",
+            "flag": "flags/44.png",
+            "map": "maps/44.png"
+        },
+        {
+            "name": "countries_buttons/45.png",
+            "capital": "capitals_buttons/45.png",
+            "flag": "flags/45.png",
+            "map": "maps/45.png"
+        },
+        {
+            "name": "countries_buttons/46.png",
+            "capital": "capitals_buttons/46.png",
+            "flag": "flags/46.png",
+            "map": "maps/46.png"
+        },
+        {
+            "name": "countries_buttons/47.png",
+            "capital": "capitals_buttons/47.png",
+            "flag": "flags/47.png",
+            "map": "maps/47.png"
+        },
+        {
+            "name": "countries_buttons/48.png",
+            "capital": "capitals_buttons/48.png",
+            "flag": "flags/48.png",
+            "map": "maps/48.png"
+        },
+        {
+            "name": "countries_buttons/49.png",
+            "capital": "capitals_buttons/49.png",
+            "flag": "flags/49.png",
+            "map": "maps/49.png"
+        },
+        {
+            "name": "countries_buttons/50.png",
+            "capital": "capitals_buttons/50.png",
+            "flag": "flags/50.png",
+            "map": "maps/50.png"
+        },
+        {
+            "name": "countries_buttons/51.png",
+            "capital": "capitals_buttons/51.png",
+            "flag": "flags/51.png",
+            "map": "maps/51.png"
+        },
+        {
+            "name": "countries_buttons/52.png",
+            "capital": "capitals_buttons/52.png",
+            "flag": "flags/52.png",
+            "map": "maps/52.png"
+        },
+        {
+            "name": "countries_buttons/53.png",
+            "capital": "capitals_buttons/53.png",
+            "flag": "flags/53.png",
+            "map": "maps/53.png"
+        }
+    ]
+}
