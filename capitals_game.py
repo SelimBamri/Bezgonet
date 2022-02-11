@@ -14,7 +14,7 @@ def capital_game(function, function2):
                 tries = 0
                 score = 0
                 root1.destroy()
-                capital_game()
+                capital_game(function, function2)
 
             def back():
                 global tries, score
