@@ -14,7 +14,7 @@ def flag_game(function, function2):
                 tries = 0
                 score = 0
                 root1.destroy()
-                flag_game()
+                flag_game(function, function2)
 
             def back():
                 global tries, score
