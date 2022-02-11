@@ -14,7 +14,7 @@ def map_game(function, function2):
                 tries = 0
                 score = 0
                 root1.destroy()
-                map_game()
+                map_game(function, function2)
 
             def back():
                 global tries, score
